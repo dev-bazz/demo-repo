@@ -1,3 +1,9 @@
-
+body {
+  background-color: rgb(248, 252, 255);
+  font-family: sans-serif;
+}
+body p {
+  width: 60ch;
+}
 
 /*# sourceMappingURL=style.css.map */
